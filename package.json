@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:NamitaPudasaini/Demoblaze.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
 }
