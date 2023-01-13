@@ -1,0 +1,7 @@
+{
+  "name": "demoblaze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NamitaPudasaini/Demoblaze.git",
+  "license": "MIT"
+}
